@@ -1,2 +1,13 @@
-Ini adalah game sederhana suit(batu,gunting,kertas), disini anda akan melawan komputer itu sendiri, di buat menggunakan bahasa pemrograman python yang menggunakan module random bawaan dari python
-Anda bisa mencoba dan menjalankannya di text editor atau IDE yang anda punya
+Game batu gunting kertas sederhana untuk menghilangkan rasa bosan.
+
+Cara Gampang Jalninnya
+- BUKA IDE ONLINE PYTHON DI GOOGLE ATAU BROWSER KALIAN MASING-MASING LALU SALIN KODE NYA DAN JALANKAN PROGRAMNYA
+- Ini link IDE online nya https://www.online-python.com/
+
+## Cara Instalasi
+
+1. Pastikan Python dan IDE sudah terpasang di komputer Anda. Jika belum, unduh dan instal dari [python.org](https://www.python.org/).
+
+2. Clone repository ini
+Jalankan program dengan perintah berikut di terminal:
+python todolist.py
