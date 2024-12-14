@@ -10,4 +10,4 @@ Cara Gampang Jalninnya
 
 2. Clone repository ini
 Jalankan program dengan perintah berikut di terminal:
-python todolist.py
+python game.py
